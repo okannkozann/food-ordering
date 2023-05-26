@@ -13,12 +13,7 @@ const About = () => {
         <div className="md:w-1/2 ">
           <Title addClass="text-[40px]">We Are S-420</Title>
           <p className="my-5 flex flex-col items-center">
-            There are many variations of passages of Lorem Ipsum available, but
-            the majority have suffered alteration in some form, by injected
-            humour, or randomised words which don`t look even slightly
-            believable. If you are going to use a passage of Lorem Ipsum, you
-            need to be sure there isn`t anything embarrassing hidden in the
-            middle of text. All
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem vitae eos animi vero maiores dolores iure perspiciatis ipsa alias voluptate? Beatae, sed similique! Voluptatem enim consectetur, nemo nam magni illo consequuntur in incidunt dolorum officia sapiente, error non sit quasi dignissimos facere quo sunt cum impedit! Illo quod iusto fugiat?
           </p>
           <button className="btn-primary">Read More</button>
         </div>

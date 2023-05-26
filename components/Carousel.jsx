@@ -26,7 +26,7 @@ const Carousel = () => {
       <div className="absolute top-0 left-0 w-full h-full">
         <div className="relative h-full w-full">
           <Image
-            src="/images/burger2.png"
+            src="/images/hero-bg.jpg"
             alt=""
             layout="fill"
             objectFit="cover"
@@ -37,7 +37,7 @@ const Carousel = () => {
       <Slider {...settings}>
         <div>
           <div className="mt-40 container mx-auto  text-white flex flex-col items-start gap-y-8 ">
-            <Title addClass="text-5xl">Slice 420 Restaurant</Title>
+            <Title addClass="text-5xl">Slice 420 Fast Food</Title>
             <p className=" text-xl font-dancing sm:w-2/5 w-full">
               Doloremque, itaque aperiam facilis rerum, commodi, temporibus
               sapiente ad mollitia laborum quam quisquam esse error unde.
@@ -62,3 +62,4 @@ const Carousel = () => {
   );
 };
 export default Carousel;
+//Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempora id quasi reprehenderit, dolor necessitatibus aut minus ex autem nobis illo.
